@@ -1,7 +1,7 @@
 # simple-rest-api-laravel
 sc : https://youtu.be/57Ej3X6tzfw
 
-#endpoint
+## Endpoint
 GET /api/students/
 GET /api/students/{id}/
 POST /api/students/
